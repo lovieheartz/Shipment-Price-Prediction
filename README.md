@@ -9,6 +9,7 @@ Here's a simplified explanation of the problem:
 --Goal: The goal of this project is to use machine learning (a type of advanced computer program) to predict shipping costs more accurately. By feeding the program data about previous shipments, it will learn to estimate future costs based on patterns it finds.
 
 --Why It's Useful: 
+<br>
 Predicting shipping prices can help businesses:
 
 1. Save money by choosing the most cost-effective shipping options.
